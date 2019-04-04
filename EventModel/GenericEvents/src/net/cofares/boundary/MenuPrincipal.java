@@ -8,10 +8,11 @@ import net.cofares.GEvent;
 import net.cofares.Source;
 
 /**
- * Menu principal hériitage de Source<D> ou dlelagate Source<D>
+ * Menu principal héritage de SourceD ou dlelagate SourceD
  * Exemple d'utilisation avac un menu
  *
  * @author Pascal Fares
+ * @param <D>
  */
 public class MenuPrincipal<D> implements Runnable {
 
