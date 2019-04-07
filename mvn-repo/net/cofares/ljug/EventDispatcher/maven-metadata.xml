@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.cofares.ljug</groupId>
+  <artifactId>EventDispatcher</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190407135142</lastUpdated>
+  </versioning>
+</metadata>
